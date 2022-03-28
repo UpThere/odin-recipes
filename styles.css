@@ -1,0 +1,23 @@
+* {
+   background-color: beige;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 20px; 
+}
+.image {
+    text-align: center;
+}
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
+.menu,
+h3 {
+    font-weight: bold;
+    font-size: 25px;
+}
+.ingredients {
+
+}
+.steps {
+
+}
